@@ -28,7 +28,7 @@ twitter_username: krea8iv
 github_username: krea8iv
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
