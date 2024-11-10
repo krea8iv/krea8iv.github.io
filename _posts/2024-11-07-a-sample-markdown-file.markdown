@@ -4,9 +4,8 @@ title:  "A Sample Markdown File"
 date:   2024-11-07 05:28:09 +0530
 categories: markdown
 ---
-An h1 header
-============
 
+# A Sample Markdown File
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
