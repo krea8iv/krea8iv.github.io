@@ -6,7 +6,7 @@ categories: markdown
 ---
 # Jekyll Static Site Generator & GitHub Pages Quickstart
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fV01b0duZwU?si=86ElYZxo_EZ-7ywu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Jekyll Static Site Generator & GitHub Pages Quickstart](https://www.youtube.com/watch?v=fV01b0duZwU)
 
 [Cloud Native Trainer with Mike](https://www.youtube.com/@cloudnativetrainer)
 
