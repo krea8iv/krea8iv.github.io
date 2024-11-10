@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "A Sample Markdown File"
+title:  "Markdown test"
 date:   2024-11-07 05:28:09 +0530
 categories: markdown
 ---
